@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+   <div class="container">
+        <div class="jumbotron">
+            <h1 class="text-center" id="name">Jim Carrey</h1>
+            <div class="col-xs-12">    
+            <img class"img-responsive id="large-image" src="https://uproxx.files.wordpress.com/2017/07/jim-carrey.jpg?quality=100&>w=650">
+            </div>
+
+            <div class="text-center"><em>"You can fail at what you don't want, so you might as well take a chance on doing what you love"</em> -Jim Carrey</div>
+
+            <hr width="100%">
+
+            <h4>Early Life</h4>
+            <p>Carrey was born in Newmarket, Ontario, Canada to Kathleen, a homemaker, and Percy Carrey, a musician and accountant. He has three older siblings: John, Patricia, and Rita. He was raised a Roman Catholic. His mother was of French, Irish, and Scottish descent and his father was of French-Canadian ancestry.
+
+            According to his own testimony, at age ten, Carrey wrote a letter to Carol Burnett of the Carol Burnett Show pointing out that he was already a master of impressions and should be considered for a role on the show; he was, as a child, overjoyed at receiving the semblance of a formally written reply.
+
+            Carrey lived in Burlington, Ontario, for eight years, and attended Aldershot High School. In a Hamilton Spectator interview (February 2007), Carrey said, "If my career in show business hadn't panned out I would probably be working today in Hamilton, Ontario at the Dofasco steel mill." When looking across the Burlington Bay toward Hamilton, he could see the mills and thought, "Those were where the great jobs were."
+            </p>
+
+            <h4>Early Work</h4>
+            <p>While Carrey was struggling to obtain work and make a name for himself, his father tried to help the young comedian put together a stage act, driving him to Toronto to debut at comedy club Yuk Yuk's. Carrey's impersonations bombed and this gave him doubts about his capabilities as a professional entertainer. His family's financial struggles made it difficult for them to support Carrey's ambitions.
+
+            Eventually, the family's financial problems were resolved and they moved into a new home. With more domestic stability, Carrey returned to the stage with a more polished act. In a short period of time, he went from open-mic nights to regular paid shows, building his reputation in the process. A reviewer in the Toronto Star raved that Carrey was "a genuine star coming to life". Carrey was soon noticed by comedian Rodney Dangerfield, who signed the young comic to open his tour performances. Dangerfield eventually brought Carrey to Las Vegas. However, Carrey soon decided to move to Hollywood, where he began performing at The Comedy Store and, in 1982, appeared on the televised stand-up show An Evening at the Improv. The following year, he debuted his act on The Tonight Show.
+
+            Despite his increasing popularity as a stand-up comic, Carrey turned his attention to the film and television industries, auditioning to be a cast member for the 1980–81 season of NBC's Saturday Night Live. Carrey was not selected for the position, although he later hosted the show in May 1996, January 2011, and October 2014. In 1984, Carrey was in the short-lived sitcom The Duck Factory.
+
+            From 1990 to 1994, Carrey was a regular cast member of the ensemble comedy television series In Living Color.
+            </p>
+
+            <h4>Rise to Fame</h4>
+            <p>
+            1994 was a break-out year for Carrey. He was cast in the lead roles in Ace Ventura: Pet Detective, The Mask and Dumb and Dumber. Dumb and Dumber was a commercial success, grossing over $270 million worldwide, He received his first Golden Globe Award nomination for Best Actor for his work in The Mask.
+
+            In 1995, Carrey co-starred in the Joel Schumacher-directed superhero film Batman Forever, in which Batman tries to stop Two-Face and the Riddler (played by Carrey) in their villainous scheme to drain information from all the brains in Gotham City. The feature received reasonable reviews, with most criticism aimed at the movie's "blatant commercialism", as characterized by Peter Travers.            
+            
+            In that same year, Carrey reprised his role as Ace Ventura in Ace Ventura: When Nature Calls. Like the original film, it was well received by the public, but heavily criticised by critics. It was a huge box-office success, earning $212 million worldwide in addition to breaking records, with a $40 million opening weekend.
+
+            Carrey earned $20 million for his next film, The Cable Guy (1996). Directed by Ben Stiller, the film was a satirical black comedy, in which Carrey played a lonely, menacing cable TV installer who infiltrates the life of one of his customers (played by Matthew Broderick). The role was a departure from the "hapless, hyper, overconfident" characters he had been known for. However, it did not fare well with most critics, many reacting towards Carrey's change of tone to previous films. Despite the reviews, The Cable Guy grossed $102 million worldwide.
+
+            He soon bounced back in 1997 with the critically acclaimed comedy Liar Liar, playing Fletcher Reede, a successful lawyer who has built his career on lying, regularly breaking promises that he makes to his son Max. Max soon makes a birthday wish that for just that one day, his dad would not be able to lie. Carrey was praised for his performance, earning a second Golden Globe Award nomination for Best Actor. Janet Maslin of The New York Times said, "Well into his tumultuous career, Mr. Carrey finally turns up in a straightforward comic vehicle, and the results are much wilder and funnier than this mundane material should have allowed."</p>
+                                                                        
+            <p class="text-center">To enjoy Carrey's full speech from the 2014 MUM graduation click<a href="https://www.youtube.com/watch?v=V80-gPkpH6M" target="_blank"> here.</a></p>
+        </div>
+    </div>
+</body>
+</html>
